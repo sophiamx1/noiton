@@ -1,0 +1,7 @@
+<div class="gigacalculator" data-tool="/calculators/grade-calculator.php" data-width="450">
+  <div class="gigacalctitle">Grade Calculator</div>
+  <div class="gigacalcfooter">
+    <a href="https://www.gigacalculator.com/calculators/grade-calculator.php">Grade Calculator</a> by <a class="gigacalclink" href="https://www.gigacalculator.com/">GIGAcalculator.com</a>
+  </div>
+</div>
+<script defer src="https://cdn.gigacalculator.com/embed.min.js"></script>
